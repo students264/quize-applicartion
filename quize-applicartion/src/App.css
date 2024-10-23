@@ -1,0 +1,21 @@
+.size{
+  height:80px;
+  background-color:rgb(28, 28, 246);
+  position:sticky;
+  top:0px;
+}
+.text{
+  font-size:25px;
+  color:white;
+}
+.button{
+  display:block;
+  margin:auto;
+  cursor:pointer;
+}
+.point{
+  cursor:pointer;
+}
+.hw{
+  width:300px;
+}
